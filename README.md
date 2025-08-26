@@ -1,2 +1,2 @@
 # Smart-election
-voting with aadhar verification
+voting with aadhar verification using Verhoeff algorithm
